@@ -4,7 +4,7 @@ Imagine you have worked hard to make your tables look good, but one thing keeps 
 
 Please keep in mind that when this plugin is used to align on characters, it will convert the children of the element it is called on to text, and apply the alignment to that. Inline markup will thus be effectively removed. Future versions of this plugin might correct this, once I figure out what to do with complex content.
 
-The following examples selects all the cells in an example table, then uses the [jQuery Column Selector plugin](../column-selector/) to select the first column, and finally aligns the cells in that column on the comma character.
+The following examples selects all the cells in an example table, then uses the [jQuery Column Selector plugin](column-selector/) to select the first column, and finally aligns the cells in that column on the comma character.
 
     $('#example td:nth-col(1)').textAlign(',');
 
