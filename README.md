@@ -1,4 +1,4 @@
-# jQuery Text Alignment Plugin
+## jQuery Text Alignment Plugin
 
 Imagine you have worked hard to make your tables look good, but one thing keeps bugging you; the alignment of the text in the cells. You would, for example, like to align the contents of each cell on the comma character. Unfortunately, no browser supports aligning table cells on characters. This is where the jQuery Text Alignment Plugin comes in; it adds support for aligning text based on characters to all browsers.
 
