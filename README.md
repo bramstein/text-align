@@ -33,7 +33,7 @@ The `textAlign` method only accepts a single parameter, and will align all selec
             <dd>Align the elements according to the left-to-right locale (end means right in western languages.)</dd>
             
             <dt>&lt;character&gt;</dt>
-            <dd>Align the the elements on the character. Note that elements that do not have the character are aligned as if they ended with the character. The element as a whole is aligned according to the inherited text alignment property.</dd>
+            <dd>Align the elements on the character. Note that elements that do not have the character are aligned as if they ended with the character. The element as a whole is aligned according to the inherited text alignment property.</dd>
         </dl></dd>
 </dl>
 
